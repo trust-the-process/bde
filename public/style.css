@@ -1,0 +1,32 @@
+s.td::first-letter {
+    text-transform: uppercase;
+}
+
+.td::first-line {
+    text-transform: uppercase;
+}
+
+.td_name {
+    text-transform: uppercase;
+}
+
+.small_box {
+    width: 55px;
+    height: 60px;
+    background: #ff7403a2;
+    border-radius: 8px;
+    text-align: center;
+    align-content: center;
+    padding: 5px 0 0;
+    line-height: 1.5em;
+    color: #fff !important;
+}
+
+.small_box h3 {
+    font-weight: bolder;
+    color: #fff !important;
+}
+
+.shadow {
+    box-shadow: 1px 1px 10px rgba(141, 141, 141, 0.2);
+}
